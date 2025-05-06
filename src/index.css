@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+*{
+ 
+  font-family: sans-serif;
+}
+
+::selection{
+  color: yellow;
+}

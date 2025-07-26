@@ -1,0 +1,19 @@
+Python:
+    Decoraters
+    Opps
+    Gernraters
+    List vs Tuple vs Dict
+    Garbage Collector
+    Iterartor
+
+Django/DRF:
+    CRUD
+    Auth
+    MVT
+    ORM
+    Middleware(internally)
+    Singnals 
+    How You Connect DB
+    SQL(Basic)
+    Migrations
+    Rest APi vs Soap APi
